@@ -19,7 +19,7 @@
 | Project | Tech | Description |
 |---|---|---|
 | [FoodScribe](link) | Spring Boot · MySQL · JS | Full-stack food delivery with subscriptions |
-| [BusLine](link) | HTML · CSS · JS | Real-time bus tracking with live countdowns |
+| [BusLine](link) | ReactJS · JS | Real-time bus tracking with live countdowns |
 | [Product Management System](link) | Spring Boot | Designed to facilitate the management of products within an organization |
 
 ---
