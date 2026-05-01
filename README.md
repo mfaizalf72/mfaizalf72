@@ -9,8 +9,8 @@
 
 **Backend:** Java, Spring Boot, Spring Data JPA, Hibernate, REST API  
 **Frontend:** HTML, CSS, JavaScript  
-**Database:** MySQL, PostgreSQL  
-**Tools:** Git, Docker, Postman, IntelliJ IDEA  
+**Database:** MySQL  
+**Tools:** Git, Postman, IntelliJ IDEA  
 
 ---
 
