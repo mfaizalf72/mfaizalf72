@@ -32,6 +32,7 @@
 - MySQL
 - Relational Database Design
 - SQL Query Optimization
+- MongoDB
 
 ### Tools & Platforms
 - Git & GitHub
@@ -72,14 +73,6 @@
 - Worked on KPI tracking and structured reporting systems  
 - Coordinated across multiple engineering teams in fast-paced environments  
 - Improved workflow tracking and operational efficiency  
-
----
-
-# 📊 GitHub Stats
-
-![Faizal's GitHub stats](https://github-readme-stats.vercel.app/api?username=mfaizalf72&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mfaizalf72&layout=compact&theme=tokyonight)
 
 ---
 
