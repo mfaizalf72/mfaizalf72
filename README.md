@@ -158,5 +158,5 @@ My current focus is on strengthening Java backend development, Spring Boot, clou
 ---
 
 <p align="center">
-  <b>Open to entry-level Java Backend, Full Stack Developer, and Software Engineer opportunities.</b>
+  <b>Open to Java Backend, Full Stack Developer, and Software Engineer opportunities.</b>
 </p>
