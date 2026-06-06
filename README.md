@@ -22,7 +22,7 @@ I am a Computer Science Engineering graduate from Mangalore, India, focused on b
 
 My current focus is on strengthening Java backend development, Spring Boot, cloud deployment, system design fundamentals, and AI-assisted development workflows.
 
-- 🔭 Building full-stack projects using **Java, Spring Boot, React.js, and MySQL**
+- 🔭 Building full-stack projects using **Java, Python, Spring Boot, React.js, and MySQL**
 - 🌱 Learning **Microservices, Docker, CI/CD, Cloud Deployment, and System Design**
 - 💡 Interested in **backend engineering, scalable APIs, debugging, clean architecture, and AI-powered applications**
 - 📍 Based in **Mangalore, India**
