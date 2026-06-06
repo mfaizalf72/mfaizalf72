@@ -1,104 +1,162 @@
-# Hi 👋, I'm Mahammad Faizal
+<h1 align="center">Hi, I'm Mahammad Faizal 👋</h1>
 
-### Backend-Focused Full Stack Developer | Java • Spring Boot • REST APIs • React.js • MySQL
+<h3 align="center">Backend-Focused Full Stack Developer | Java | Spring Boot | React.js | MySQL</h3>
 
-📍 Mangalore, India  
-💻 I build backend-focused full-stack applications with clean APIs, authentication, database design, and practical deployment.  
-🚀 Focused on Java backend development, Spring Boot, cloud deployment, and real-world software engineering.  
-⚡ Interested in scalable systems, clean architecture, debugging, AI-assisted development, and API-driven applications.  
-
----
-
-# 🛠 Tech Stack
-
-### Backend Development
-- Java
-- Spring Boot
-- Spring MVC
-- Spring Security
-- Hibernate ORM
-- Spring Data JPA
-- RESTful APIs
-- JWT Authentication
-
-### Frontend Development
-- React.js
-- HTML5
-- CSS3
-- JavaScript ES6+
-- Tailwind CSS
-- Responsive UI Design
-
-### Database
-- MySQL
-- Relational Database Design
-- SQL Query Optimization
-- SQLite
-- MongoDB
-
-### Tools & Platforms
-- Git & GitHub
-- Postman
-- IntelliJ IDEA
-- VS Code
-- Railway
-- Vercel
-- Docker Basics
-- Linux Basics
+<p align="center">
+  <a href="https://linkedin.com/in/mfaizalf72">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:mfaizalf72@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/mfaizalf72">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-# 🚀 Featured Projects
+## 👨‍💻 About Me
 
-| Project | Tech Stack | Description |
-|---|---|---|
-| [Team Task Manager - Frontend](https://github.com/mfaizalf72/team-task-manager-frontend) | React.js · REST APIs · Tailwind CSS | Role-based project and task management frontend with dashboards, authentication flow, task status updates, and responsive UI. |
-| [Team Task Manager - Backend](https://github.com/mfaizalf72/team-task-manager-backend) | Spring Boot · JWT · MySQL · REST APIs | Backend system for project workflows, task assignments, JWT authentication, role-based authorization, and CRUD APIs. |
-| [LLM Logging / Enterprise RAG System](https://github.com/mfaizalf72/LLM-Logging) | React.js · Node.js · Express · SQLite · JWT · RBAC | Upgraded AI logging system with secure RAG flow, role-based access control, document ingestion, citations, and audit logging. |
-| [FoodScribe](https://github.com/mfaizalf72/FoodScribe) | Spring Boot · MySQL · React.js | Full-stack food ordering and subscription platform with admin dashboard, order tracking, and REST API integration. |
-| [BusLine](https://github.com/mfaizalf72/BusLine) | React.js · JavaScript | Bus timing and route-tracking application with smart stop finder, dynamic countdown logic, and responsive frontend UI. |
-| [Product Management System](https://github.com/mfaizalf72/Product-management-backend-project) | Spring Boot · MySQL · REST APIs | Backend-driven product management application for product CRUD operations, database handling, and API testing. |
-| [DevOps Internship Assignment](https://github.com/mfaizalf72/devops-internship-assignment) | HCL · DevOps Basics | DevOps assignment project focused on version control, setup workflow, and deployment-oriented project structure. |
-| [Portfolio Website](https://github.com/mfaizalf72/my-portfolio) | JavaScript · React.js | Personal portfolio website showcasing skills, projects, GitHub repositories, and developer profile. |
+I am a Computer Science Engineering graduate from Mangalore, India, focused on backend and full-stack development. I enjoy building practical software systems with secure authentication, clean REST APIs, relational database design, and responsive frontend interfaces.
+
+My current focus is on strengthening Java backend development, Spring Boot, cloud deployment, system design fundamentals, and AI-assisted development workflows.
+
+- 🔭 Building full-stack projects using **Java, Spring Boot, React.js, and MySQL**
+- 🌱 Learning **Microservices, Docker, CI/CD, Cloud Deployment, and System Design**
+- 💡 Interested in **backend engineering, scalable APIs, debugging, clean architecture, and AI-powered applications**
+- 📍 Based in **Mangalore, India**
 
 ---
 
-# 💼 Experience
+## 🛠 Technical Skills
 
-### Full Stack Developer Intern
-**ExcelR Solutions** | Bengaluru, India  
-- Developed REST APIs using Java and Spring Boot.  
-- Integrated React.js frontend with backend APIs.  
-- Implemented authentication and role-based authorization workflows.  
-- Worked with MySQL schema design, debugging, and API testing.  
-- Used Git workflows and agile development practices.  
+### Backend
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 
-### Project Planning Engineer
-**PlantTech - Saudi Aramco Project** | Riyadh, Saudi Arabia  
-- Managed reporting workflows and operational dashboards.  
-- Worked on KPI tracking and structured progress reporting systems.  
-- Coordinated across multiple engineering teams in fast-paced environments.  
-- Improved workflow tracking, reporting accuracy, and operational efficiency.  
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
----
-
-# 🌱 Currently Learning
-
-- Microservices Architecture
-- Docker & CI/CD
-- Distributed Systems Basics
-- Cloud Deployment Workflows
-- AI-Assisted Development Workflows
-- System Design Basics
+### Database & Tools
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 ---
 
-# 📫 Connect With Me
+## 🚀 Featured Projects
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/mfaizalf72)
+### 1. Team Task Manager
+**Full-stack project and task management system with role-based access control**
 
-[![Email](https://img.shields.io/badge/Email-red?logo=gmail)](mailto:mfaizalf72@gmail.com)
+- Built separate frontend and backend applications for managing projects, members, and tasks.
+- Implemented JWT authentication and role-based authorization for Admin and Member users.
+- Added task assignment, status updates, priority handling, project timelines, and responsive dashboards.
+
+**Tech Stack:** Spring Boot, Spring Security, JWT, MySQL, React.js, Tailwind CSS, REST APIs  
+**Repositories:** [Frontend](https://github.com/mfaizalf72/team-task-manager-frontend) | [Backend](https://github.com/mfaizalf72/team-task-manager-backend)
 
 ---
 
-⭐ Always interested in learning, building, and collaborating on impactful software projects.
+### 2. LLM Logging / Enterprise RAG System
+**Secure AI logging and retrieval system with RBAC-based document access**
+
+- Upgraded an LLM logging project into a secure Enterprise RAG Intelligence System.
+- Added JWT authentication, role-based access control, document ingestion, authorized retrieval, citations, and audit logging.
+- Ensured unauthorized document chunks are never retrieved or passed into the answer generation layer.
+
+**Tech Stack:** React.js, Node.js, Express.js, SQLite, JWT, RBAC, RAG Architecture  
+**Repository:** [LLM-Logging](https://github.com/mfaizalf72/LLM-Logging)
+
+---
+
+### 3. FoodScribe
+**Full-stack food ordering and subscription management platform**
+
+- Developed a food ordering and subscription workflow with backend APIs and frontend integration.
+- Designed admin-focused features for managing orders, subscriptions, and customer activity.
+- Used REST API integration and database-backed workflows for real-world CRUD operations.
+
+**Tech Stack:** Spring Boot, MySQL, React.js, REST APIs  
+**Repository:** [FoodScribe](https://github.com/mfaizalf72/FoodScribe)
+
+---
+
+### 4. BusLine
+**Bus timing and route information application for local transport users**
+
+- Built a responsive bus timing application with route-based schedule lookup.
+- Added smart stop finder, countdown logic, and simple navigation between routes.
+- Designed for practical use by passengers checking bus timings quickly.
+
+**Tech Stack:** React.js, JavaScript, HTML, CSS  
+**Repository:** [BusLine](https://github.com/mfaizalf72/BusLine)
+
+---
+
+### 5. Product Management System
+**Backend product management application with RESTful CRUD operations**
+
+- Created backend APIs for product creation, update, retrieval, and deletion.
+- Used Spring Boot and MySQL for structured backend and database operations.
+- Tested API workflows using Postman.
+
+**Tech Stack:** Spring Boot, MySQL, REST APIs, Postman  
+**Repository:** [Product Management Backend](https://github.com/mfaizalf72/Product-management-backend-project)
+
+---
+
+## 💼 Experience
+
+### Full Stack Developer Intern  
+**ExcelR Solutions | Bengaluru, India**
+
+- Developed REST APIs using Java and Spring Boot.
+- Integrated React.js frontend pages with backend services.
+- Worked with authentication, authorization, database design, debugging, and API testing.
+- Used Git and GitHub for project version control.
+
+### Project Planning Engineer  
+**PlantTech - Saudi Aramco Project | Riyadh, Saudi Arabia**
+
+- Managed progress reporting, KPI tracking, and structured operational dashboards.
+- Coordinated with engineering teams in a fast-paced project environment.
+- Improved reporting accuracy, workflow visibility, and task tracking.
+
+---
+
+## 📌 Currently Improving
+
+- Java backend development
+- Spring Boot microservices
+- Docker and CI/CD basics
+- Cloud deployment workflows
+- System design fundamentals
+- AI-assisted development workflows
+
+---
+
+## 📫 Connect With Me
+
+- LinkedIn: [linkedin.com/in/mfaizalf72](https://linkedin.com/in/mfaizalf72)
+- Email: [mfaizalf72@gmail.com](mailto:mfaizalf72@gmail.com)
+- GitHub: [github.com/mfaizalf72](https://github.com/mfaizalf72)
+
+---
+
+<p align="center">
+  <b>Open to entry-level Java Backend, Full Stack Developer, and Software Engineer opportunities.</b>
+</p>
